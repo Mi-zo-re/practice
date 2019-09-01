@@ -22,7 +22,9 @@ while i < len(an)-1:  #对列表进行遍历
                     z = str(mem)
                     m = m + z
                 q = {m}
+                m = ""
                 print(q)
+                print("\n")
             else:
                 i += 1
     else:
