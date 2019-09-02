@@ -1,0 +1,20 @@
+[{"school":"lanzhouyizhong"},
+{"year":1901},
+{"teachers":[
+    {"english":["dujuan","others"]},
+    {"chemistry":["lijing","wangjianping"]},
+    {"math":["cuiye","others"]}
+]},
+{"students":[
+    {"gaoyi":[
+        {"zhangsan":[18,606.5,"tongji"]},
+        {"lisi":[17,584,"zhongguozhengfa"]},
+        {"wangwu":[19,590,"suzhou"]}]},
+    {"gaoer":[
+        {"xiaohong":[17,524]},
+        {"xiaoming":[17,623]},
+        {"xiaozhang":[16,498]}]},
+    {"gaosan":[
+        {"asan":[16,800]},
+        {"adu":[16,758]},
+        {"ajie":[16,872]}]}]}]
